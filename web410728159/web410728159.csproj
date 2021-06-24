@@ -164,6 +164,7 @@
     <Content Include="Views\Exam\Contact.cshtml" />
     <Content Include="Views\Exam\Index.cshtml" />
     <Content Include="Views\Exam\About.cshtml" />
+    <Content Include="Views\Exam\Day.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
